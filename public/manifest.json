@@ -1,6 +1,6 @@
 {
   "short_name": "Aplicação React",
-  "name": "Templade Dev Samurai de aplicação React",
+  "name": "Aplicação de carrinho de pedidos usando um template Layout do Dev Samurai",
   "icons": [
     {
       "src": "favicon.ico",
