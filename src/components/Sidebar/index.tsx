@@ -26,14 +26,14 @@ export const SideBar = () => {
       <nav>
         <ul>
           <li>
-            <NavLink to='/'>
+            <NavLink to=''>
               <BurgerIcon />
               <span>Hamburgeres</span>
             </NavLink>
           </li>
 
           <li>
-            <NavLink to='pizza'>
+            <NavLink to='pizzas'>
               <PizzaIcon />
               <span>Pizzas</span>
             </NavLink>
@@ -42,7 +42,7 @@ export const SideBar = () => {
           <li>
             <NavLink to='drinks'>
               <SodaPopIcon />
-              <span>Refrigerantes</span>
+              <span>Bebidas</span>
             </NavLink>
           </li>
 
